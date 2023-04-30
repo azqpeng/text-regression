@@ -1,0 +1,1 @@
+raising and inserting of the link was the dangerous part of making a coupling it could only be done by the brakeman while standing between the cars and he must raise the link insert it and remove his hand in a fraction of a second if the

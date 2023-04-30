@@ -1,0 +1,1 @@
+feet 6 30 feet 7 40 feet 8 50 feet 9 60 feet 10 70 feet 11 85 feet 12 100 feet 13 115 feet 14 130 feet 15 150 feet 16 200 feet 18 230 feet 20 300 feet 23 350 feet 25 500 feet 30 700 feet 35 900 feet 40 a

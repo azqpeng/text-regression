@@ -1,0 +1,1 @@
+pub ins 1 500 state librarian 450 chief justice 2 500 chancellor 2 500 3 asso justices 2 200 senators 3 pr day representatives and mileage district judge 3 500 dist att 200 fees col inter rev 2 875 6 deputy collectors 900 to

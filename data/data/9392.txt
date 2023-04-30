@@ -1,0 +1,1 @@
+the program uses common window navigation controls and a standard tape deckstyle interface to the audio controls just click the green arrow to play a file for further information regarding the use of the other controls on the toolbar please

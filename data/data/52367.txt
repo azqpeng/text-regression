@@ -1,0 +1,1 @@
+shepherd 20 0 4 0 labourer 15 0 3 4 woman servant 10 0 4 0 child under 14 6 0 3 0 footnote 40 the total cost of the building operations from the surveying of the ground to the roseynyng of the doors was 96 17s 4d about 2000 in

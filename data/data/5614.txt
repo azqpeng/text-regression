@@ -1,0 +1,1 @@
+q k r a b c d e f g h diag 94 1 p kr4 r k1 2 p r5 this forces open the rook s file if the pawn were still at kt2 black would simply let white push on to r6 and then reply with p kkt3 2 ktxp 3 rxkt white concludes
